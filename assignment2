@@ -1,0 +1,16 @@
+run the program from assignemnt 1 in a console (powershell or cmd in windows)
+
+use a pipe to write the programms output to a file
+
+description for pipe in german:
+
+
+  eine pipe is auf verschiedenen systeme eine leitung mit der programme kommunizieren klönnen und mit dem os interagiert werden kann
+  also dei programm hat einen gewissen output der bei einem aufruf auf einer kommandozeile ausgegeben wird
+  den kannst du umleiten in eine datei, oder sogar in ein anderes programm
+  um den output deines programms auf windows in ein file rein zu pipen benutzt du 
+
+  meinprogramm.exe > meinfile.txt
+
+  wobei > der pipe operator is
+  du kannst auch >> verwenden um etwas an ein text file anzuhängen
