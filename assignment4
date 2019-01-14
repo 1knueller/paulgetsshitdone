@@ -1,3 +1,9 @@
 Write a Program that encrypts a text with a password and can decrypt it again with that same password
 
 The password should be defined by the user. The text should also be defined by the user.
+
+Part2:
+
+The text to ecrypt should come from either a file or user input (booth should be implemented) and should be stored encrypted into a file.
+Decrypting encrypted files should be possible by providing a filename and a password.
+
