@@ -1,5 +1,6 @@
-Write a Program that encrypts a text with a password and can decrypt it again with that same password
+Part1:
 
+Write a Program that encrypts a text with a password and can decrypt it again with that same password
 The password should be defined by the user. The text should also be defined by the user.
 
 Part2:
